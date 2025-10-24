@@ -15,13 +15,29 @@ Else
 6.	Return 0
  
 Program:
-
-//type your code here
+```
+#include<stdio.h>
+struct numbers
+{
+int a;
+int b;
+}n;
+int add(struct numbers n);
+int main()
+{
+scanf("%d %d ",&n.a,&n.b);
+printf("%d",add(n));
+}
+int add(struct numbers n)
+{
+return n.a+n.b;
+}
+```
 
 
 Output:
 
-//paste your output here
+<img width="275" height="312" alt="image" src="https://github.com/user-attachments/assets/c742b37d-ea4b-4adb-b7a6-0192e992de98" />
 
 
 Result:
