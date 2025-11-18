@@ -1,7 +1,8 @@
 
 
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
-
+# Name : Madhesh I
+# Reg No : 212224220055
 Aim:
 
 To write a C program to display stack elements using linked list.
