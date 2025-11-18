@@ -1,4 +1,6 @@
-EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+## EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+# Name : Madhesh I
+# Reg No : 212224220055
 Aim:
 To write a C program print the lowercase English word corresponding to the number
 Algorithm:
